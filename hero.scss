@@ -2,8 +2,8 @@
 @import "mixins";
 @import "reset";
 #hero {
-  width: 100%;
-  background: rgba(0, 0, 0, 0.87);
+  width: 95%;
+  background:  #15141A;
 
   .hero {
     display: flex;
@@ -93,8 +93,8 @@
   }
 }
 #about {
-  width: 100%;
-  background: rgba(0, 0, 0, 0.89);
+  width: 95%;
+  background: #15141A;
   .about {
     display: flex;
     justify-content: space-around;
@@ -153,8 +153,8 @@
       position: absolute;
       width: 316px;
       height: 490px;
-      left: 752px;
-      top: 908px;
+      left: 652px;
+      top: 1008px;
 
       background: linear-gradient(354.73deg, #E4E4A8 2.81%, #5C5C56 104.28%);
       border-radius: 209px;
@@ -163,8 +163,8 @@
     }
     &__elita {
       width: 346px;
-      height: 532px;
-      margin-left: -150px;
+      height: 530px;
+      margin-left: -80px;
       margin-top: -90px;
 
 

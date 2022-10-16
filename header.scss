@@ -3,13 +3,14 @@
 @import "mixins";
 
 #header {
-  background: rgba(0, 0, 0, 0.77);
-  width: 100%;
+  background:#15141A;
+  width: 95%;
 
   .header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 30px;
     &--search {
       border: 1px solid white;
       display: inline-flex;
@@ -50,8 +51,8 @@ color: rgba(255, 99, 71, 0.89);
   }
   .header {
     &__icon {
-      width: 30px;
-      height: 30px;
+      width: 20px;
+      height: 20px;
       color: white;
     }
 
@@ -135,7 +136,7 @@ color: rgba(255, 99, 71, 0.89);
   list-style: none;
 
   background-color: #ECEFF1;
-  box-shadow: 1px 0px 6px rgba(0, 0, 0, .2);
+  box-shadow: 1px 0 6px rgba(0, 0, 0, .2);
 
   transition-duration: .25s;
 }

@@ -2,19 +2,21 @@
 @import "varables";
 @import "reset";
 #relax {
-  width: 100%;
-  background: rgba(0, 0, 0, 0.87);
+  width: 95%;
+  background: #15141A;
   .relax {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
     flex-flow: row wrap;
+
     &--red {
       position: relative;
       width: 311px;
       height: 468px;
       border: 1px solid #A6A6A6;
       border-radius: 26px;
+      margin: 0 0 30px;
       img {
         position: absolute;
         width: 284px;
@@ -89,7 +91,7 @@ left: 20px;
       &__line {
         position: absolute;
         width: 284px;
-        height: 0px;
+        height: 0;
         left: 15px;
         top: 400px;
 

@@ -3,8 +3,8 @@
 @import "reset";
 
 #footer {
-  width: 100%;
-  background: rgba(0, 0, 0, 0.93);
+  width:95%;
+  background: #15141A;
 
   .footer {
     display: flex;
@@ -14,7 +14,7 @@
 
     &--dev {
       &__btn {
-        margin: 10px 0 0px 50px;
+        margin: 10px 0 0 50px;
         width: 173px;
         height: 58px;
         border: 1px solid #727272;

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24576a2d-249f-4eba-a205-d6ac72a90797" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/atom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks.scss" beforeDir="false" afterPath="$PROJECT_DIR$/blocks.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deck.scss" beforeDir="false" afterPath="$PROJECT_DIR$/deck.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express.scss" beforeDir="false" afterPath="$PROJECT_DIR$/express.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/left.scss" beforeDir="false" afterPath="$PROJECT_DIR$/left.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone.scss" beforeDir="false" afterPath="$PROJECT_DIR$/phone.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/present.scss" beforeDir="false" afterPath="$PROJECT_DIR$/present.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.scss" beforeDir="false" afterPath="$PROJECT_DIR$/product.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relax.scss" beforeDir="false" afterPath="$PROJECT_DIR$/relax.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/varables.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Sass File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fgr5NkQtjJPaSA4VV2f4VwCjiE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24576a2d-249f-4eba-a205-d6ac72a90797" name="Changes" comment="" />
+      <created>1664924383376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664924383376</updated>
+      <workItem from="1664924384585" duration="70269000" />
+      <workItem from="1665252989770" duration="29230000" />
+      <workItem from="1665516940897" duration="2460000" />
+      <workItem from="1665525119435" duration="4224000" />
+      <workItem from="1665529752184" duration="131000" />
+      <workItem from="1665530033012" duration="416000" />
+      <workItem from="1665688077765" duration="8060000" />
+      <workItem from="1665851863159" duration="5507000" />
+      <workItem from="1665946939830" duration="8159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
